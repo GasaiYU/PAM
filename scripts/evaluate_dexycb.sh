@@ -1,0 +1,13 @@
+python testing/evaluation_comb_dexycb.py \
+    --data_root '.' \
+    --model_path 'THUDM/CogVideoX-5b-I2V' \
+    --evaluation_dir 'eval_res/abl_eval_all_cond' \
+    --used_conditions seg_mask,depth,hand_keypoints \
+    --fps 15 \
+    --num_samples 1600 --ordinal \
+    --generate_type i2v \
+    --video_column /path/to/val/video/filelist \
+    --caption_column /path/to/val/caption/filelist \
+    --depth_column /path/to/val/depth/filelist \
+    --label_column /path/to/val/label/filelist \
+    --transformer_path /path/to/transformer/checkpoint/converted

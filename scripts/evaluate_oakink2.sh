@@ -1,0 +1,16 @@
+python testing/evaluation_comb_oakink2.py \
+    --data_root '.' \
+    --model_path 'THUDM/CogVideoX-5b-I2V' \
+    --evaluation_dir 'eval_res/oakink2/abl_eval_all_cond' \
+    --used_conditions seg_mask,depth,hand_keypoints \
+    --fps 15 \
+    --num_samples 1600 --ordinal \
+    --generate_type i2v \
+    --tracking_column OakInk-v2_data/filelist/val_depths.txt \
+    --video_column OakInk-v2_data/filelist/val_videos.txt \
+    --caption_column OakInk-v2_data/filelist/val_prompts.txt \
+    --depth_column OakInk-v2_data/filelist/val_depths.txt \
+    --normal_column OakInk-v2_data/filelist/val_depths.txt \
+    --hand_column OakInk-v2_data/filelist/val_hand_keypoints.txt \
+    --seg_mask_column OakInk-v2_data/filelist/val_seg_masks.txt \
+    --transformer_path exps/Oakink2/main_all_cond_HOI_s0_split_100000__optimizer_adamw__lr-schedule_cosine_with_restarts__learning-rate_1e-4/checkpoint-2500-convert
