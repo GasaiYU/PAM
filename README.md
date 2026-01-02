@@ -8,7 +8,7 @@ This repository is an official implementation for:
 
 <p align="center">
   <a href="https://huggingface.co/GasaiYU/PAM/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow" alt="Hugging Face"></a>
-  <a href="https://yks23.github.io/Sim2Real-HOI.github.io/"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
+  <a href="https://gasaiyu.github.io/PAM.github.io/"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
 </p>
 
 ![Teaser](assets/teaser.png)
