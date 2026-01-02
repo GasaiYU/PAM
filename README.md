@@ -6,6 +6,11 @@ This repository is an official implementation for:
 
 > Authors: Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
 
+<p align="center">
+  <a href="https://huggingface.co/GasaiYU/PAM/tree/main"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow" alt="Hugging Face"></a>
+  <a href="https://yks23.github.io/Sim2Real-HOI.github.io/"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
+</p>
+
 ![Teaser](assets/teaser.png)
 
 ## Getting Started
