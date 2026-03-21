@@ -1,8 +1,8 @@
-# PAM: A Pose–Appearance–Motion Engine for Sim-to-Real HOI Video Generation
+# [CVPR 2026] PAM: A Pose–Appearance–Motion Engine for Sim-to-Real HOI Video Generation
 
 This repository is an official implementation for:
 
-**[CVPR 2026] PAM: A Pose–Appearance–Motion Engine for Sim-to-Real HOI Video Generation**
+**PAM: A Pose–Appearance–Motion Engine for Sim-to-Real HOI Video Generation**
 
 > Authors: Mingju Gao, Kaisen Yang, Huan-ang Gao, Bohan Li, Ao Ding, Wenyi Li, Yangcheng Yu, Jinkun Liu, Shaocong Xu, Yike Niu, Haohan Chi, Hao Chen, Hao Tang, Yu Zhang, Li Yi, Hao Zhao
 
